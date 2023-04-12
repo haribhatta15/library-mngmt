@@ -2,6 +2,10 @@
   --mainBg: rgb(67, 252, 255);
 }
 
+body {
+  background-color: var(--mainBg) !important;
+}
+
 * {
   font-family: "Inter", sans-serif;
 }
